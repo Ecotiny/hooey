@@ -1,0 +1,11 @@
+field:
+  field_diameter: 36.3       # arcminutes (36.3 for Omega Cent.)
+  minimum_distance: 0.002569 # au (0.002569 AU is 1 LD)
+  maximum_distance: 50       # au
+velocity:
+  minimum_speed: 5           # kms^-1
+  maximum_speed: 500         # kms^-1 (Earth orbital speed is 30, comets get to around 70?)
+mass_dist:
+  avg_density: 3500          # kgm^-3
+  minimum_mass: 1.834        # kg (* 10^12) (1.834 is a 1km 3.5gcm^-3 object)
+  maximum_mass: 10           # kg (* 10^12)
